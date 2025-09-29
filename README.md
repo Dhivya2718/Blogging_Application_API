@@ -8,7 +8,8 @@
 A modern, scalable **Blog REST API** built with **Spring Boot**, enabling secure and efficient management of posts, comments, and categories.  
 Supports **JWT authentication**, role-based access control, file uploads, search, sorting, and pagination.
 
-![Blog API Banner](https://via.placeholder.com/1200x300.png?text=Blog+REST+API+Banner)
+![Blog API Banner](banner.png)
+
 
 ---
 
